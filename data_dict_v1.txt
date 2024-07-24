@@ -1,5 +1,9 @@
 Variables	Data type	Range/Classes	Max	Min	Mean	Median	Mode	Source	Change log
-Trait	String	14						NA	
-Study	object	6						NA	
-Link	object	13						NA	
-Status	object	3						NA		
+Chr	object	23						NA	
+Position	int64	1668896 - 232629562	232629562.0	1668896.0	74461118.83417085	56587427.0	1668896.0	NA	
+Variant	object	199						NA	
+EA	object	4						NA	
+OA	object	4						NA	
+EAF	float64	0.15 - 49.93	49.93	0.15	26.585678391959803	27.92	31.9	NA	
+Gene	object	186						NA	
+Column1	object	4						NA	
