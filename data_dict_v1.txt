@@ -1,0 +1,6 @@
+Variables	Data type	Range/Classes	Max	Min	Mean	Median	Mode	Source	Change log
+Trait	object	14						NA	
+Study	object	6						NA	
+Link	object	13						NA	
+Status	object	3						NA	
+Reasoning	object	1						NA	
